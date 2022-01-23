@@ -1,0 +1,1 @@
+-keep class com.example.test_app.BuildConfig { *; }
